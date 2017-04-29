@@ -1,0 +1,30 @@
+.Container{
+    display: -webkit-box;
+}
+.treeInsert{
+    height: 50%;
+    width: 50%;
+}
+.treeDisplay{
+    height: 50%;
+    width: 50%;
+}
+.inserTree{
+    margin-top: 0
+}
+.commissionTree{
+    margin-top: 25%
+}
+.subTree{
+    margin-top: 25%;
+}
+.commission{
+    margin-top: 10%;
+    margin-left: 115px;
+    width: 244px;
+}
+.tree{
+    margin-top: 0;
+    width: 414px;
+    margin-left: 105px;
+}
